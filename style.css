@@ -17,44 +17,51 @@ header{
     width: 100%;
     background-color: yellow;
 }
-.xicara{
+.xicara-1{
+    position: absolute;
     margin: 1% 5%;
-    height: 0.5%;
-    width: 1%;
+    height: 80%;
+    width: 02.5%;
 }
 .nome{
+    position: absolute;
     width: 5em;
-    font-size: 100%;
-    margin: 1% 12%;
+    font-size: 70%;
+    margin: 2% 12%;
     color: white;
     line-height: 2em;
 }
 .sobreNos{
+    position: absolute;
     width: 13em;
-    font-size: 80%;
-    margin: -3% 19%;
+    font-size: 70%;
+    margin: -1% 19%;
     color: white;
     line-height: 2em;
 }
 .local{
+    position: absolute;
     width: 10em;
-    font-size: 80%;
-    margin: 1.2% 32%;
+    font-size: 70%;
+    margin: -1% 32%;
     color: white;
     line-height: 2em;
 }
 .cardapio{
+    position: absolute;
     width: 8em;
-    font-size: 80%;
-    margin: -3% 42%;
+    font-size: 70%;
+    margin: -1% 42%;
     color: white;
     line-height: 2em;
 }
 .lupa{
-    margin: -3% 85%;
+    position: absolute;
+    margin: -1% 85%;
 }
 .burguer{
-    margin: -6.5% 93%;
+    position: absolute;
+    margin: -1% 93%;
 }
 
 main{
