@@ -1,0 +1,50 @@
+.prato2Menu{
+    position: absolute;
+    height: 18%;
+    width: 9%;
+    background-color: white;
+}
+.imgPratos-2{
+    position: absolute;
+
+}
+.prato3Menu{
+    position: absolute;
+    height: 18%;
+    width: 9%;
+    background-color: white;
+}
+.imgPratos-3{
+    position: absolute;
+
+}
+.prato4Menu{
+    position: absolute;
+    height: 18%;    
+    width: 9%;
+    background-color: white;
+}
+.imgPratos-4{
+    position: absolute;
+
+}
+.prato5Menu{
+    position: absolute;
+    height: 18%;
+    width: 9%;
+    background-color: white;
+}
+.imgPratos-5{
+    position: absolute;
+
+}
+.prato6Menu{
+    position: absolute;
+    height: 18%;
+    width: 9%;
+    background-color: white;
+}
+.imgPratos-6{
+    position: absolute;
+
+}

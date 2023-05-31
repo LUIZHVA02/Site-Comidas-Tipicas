@@ -3,35 +3,99 @@
     padding: 0;
     box-sizing: border-box;
 }
+.a{
+    text-decoration: none;
+}
 body{
     font-family: Alatsi;
     background-color: black;
 }
-
-.xicara{
-    margin: 10px 100px;
-    height: 20px;
-    width: 45px;
-
-}
-.nome{
-
-    font-size: 350%;
-    margin: -15px 200px;
-    color: white;
-}
 header{
-    height: 100px;
+    position: absolute;
+    margin-top: -15%;
+    height: 10%;
+    width: 100%;
     background-color: yellow;
 }
+.xicara{
+    margin: 1% 5%;
+    height: 0.5%;
+    width: 1%;
+}
+.nome{
+    width: 5em;
+    font-size: 100%;
+    margin: 1% 12%;
+    color: white;
+    line-height: 2em;
+}
+.sobreNos{
+    width: 13em;
+    font-size: 80%;
+    margin: -3% 19%;
+    color: white;
+    line-height: 2em;
+}
+.local{
+    width: 10em;
+    font-size: 80%;
+    margin: 1.2% 32%;
+    color: white;
+    line-height: 2em;
+}
+.cardapio{
+    width: 8em;
+    font-size: 80%;
+    margin: -3% 42%;
+    color: white;
+    line-height: 2em;
+}
+.lupa{
+    margin: -3% 85%;
+}
+.burguer{
+    margin: -6.5% 93%;
+}
+
 main{
-    height: 400px;
+    margin-top: 15%;
+    position: relative;
+    height: 65%;
+    width: 100%;
     background-color: blue;
 }
+.prato{
+    margin: 4% 32%;
+    height: 41%;
+    width: 20%;
+}
 nav{
-    height: 250px;
+    position: relative;
+    width: 100%;
+    height: 25%;
     background-color: lightgreen;
 }
+.menu{
+    position: relative;
+    height: 95%;
+    background-color: rgb(250, 213, 6);
+    border-radius: 10px;
+}
+
+.prato1Menu{
+    position: absolute;
+    height: 18%;
+    width: 9%;
+    background-color: white;
+    border-radius: 10%;
+}
+.imgPratos-1{
+    position: absolute;
+    height: 5%;
+    width: 5%;
+}
+
+
 footer{
 
 }
