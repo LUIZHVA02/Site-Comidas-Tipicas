@@ -19,7 +19,7 @@ header{
 }
 .xicara-1{
     position: absolute;
-    margin: 1% 5%;
+    margin: 0.5% 5%;
     height: 80%;
     width: 02.5%;
 }
@@ -27,7 +27,7 @@ header{
     position: absolute;
     width: 5em;
     font-size: 70%;
-    margin: 2% 12%;
+    margin: 1.5% 12%;
     color: white;
     line-height: 2em;
 }
@@ -35,7 +35,7 @@ header{
     position: absolute;
     width: 13em;
     font-size: 70%;
-    margin: -1% 19%;
+    margin: 1.5% 19%;
     color: white;
     line-height: 2em;
 }
@@ -43,7 +43,7 @@ header{
     position: absolute;
     width: 10em;
     font-size: 70%;
-    margin: -1% 32%;
+    margin: 1.5% 32%;
     color: white;
     line-height: 2em;
 }
@@ -51,17 +51,134 @@ header{
     position: absolute;
     width: 8em;
     font-size: 70%;
-    margin: -1% 42%;
+    margin: 1.5% 42%;
     color: white;
     line-height: 2em;
 }
-.lupa{
+.lupa-img{
     position: absolute;
-    margin: -1% 85%;
+    margin: 0.5% 85%;
+    height: 70%;
+    width: 3%;
 }
-.burguer{
+.burguer-img{
     position: absolute;
-    margin: -1% 93%;
+    margin: 0.5% 93%;
+    height: 70%;
+    width: 3.5%;
+}
+
+main{
+    margin-top: 15%;
+    position: relative;
+    height: 65%;
+    width: 100%;
+    background-color: blue;
+}
+.prato{
+    margin: 4% 32%;
+    height: 41%;
+    width: 20%;
+}
+nav{
+    position: relative;
+    width: 100%;
+    height: 25%;
+    background-color: lightgreen;
+}
+.menu{
+    position: relative;
+    height: 95%;
+    background-color: rgb(250, 213, 6);
+    border-radius: 10px;
+}
+
+.prato1Menu{
+    position: absolute;
+    height: 18%;
+    width: 9%;
+    background-color: white;
+    border-radius: 10%;
+}
+.imgPratos-1{
+    position: absolute;
+    height: 5%;
+    width: 5%;
+}
+
+
+footer{
+
+}
+@media (max-width: 1400px){
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.a{
+    text-decoration: none;
+}
+body{
+    font-family: Alatsi;
+    background-color: black;
+}
+header{
+    position: absolute;
+    margin-top: -15%;
+    height: 10%;
+    width: 100%;
+    background-color: yellow;
+}
+.xicara-1{
+    position: absolute;
+    margin: 0.5% 5%;
+    height: 80%;
+    width: 02.5%;
+}
+.nome{
+    position: absolute;
+    width: 5em;
+    font-size: 70%;
+    margin: 1.5% 12%;
+    color: white;
+    line-height: 2em;
+}
+.sobreNos{
+    position: absolute;
+    width: 13em;
+    font-size: 70%;
+    margin: 1.5% 19%;
+    color: white;
+    line-height: 2em;
+}
+.local{
+    position: absolute;
+    width: 10em;
+    font-size: 70%;
+    margin: 1.5% 32%;
+    color: white;
+    line-height: 2em;
+}
+.cardapio{
+    position: absolute;
+    width: 8em;
+    font-size: 70%;
+    margin: 1.5% 42%;
+    color: white;
+    line-height: 2em;
+}
+.lupa-img{
+    position: absolute;
+    margin: 0.5% 85%;
+    height: 70%;
+    width: 3%;
+}
+.burguer-img{
+    position: absolute;
+    margin: 0.5% 93%;
+    height: 70%;
+    width: 3.5%;
 }
 
 main{
